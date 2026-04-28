@@ -1,0 +1,13 @@
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HomePC\Desktop\eco assets\updated asset management 2\managed assets\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
